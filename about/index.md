@@ -1,9 +1,9 @@
----
-layout: page
-title: About
----
+# About me
 
-With an academic background in both urban policy (Sciences Po Paris) and geospatial analysis (UCL), I am passionate about using data analysis towards making a positive impact on society and the environment. I was a 2019 Data Science for Social Good fellow and a Future Stars of Tech 2020 finalist in the Data Science category.
+
+&nbsp;
+
+With an academic background in both urban policy (Sciences Po Paris) and geospatial analysis (UCL), I am passionate about using data analysis towards sustainable development and making a positive impact. I was a 2019 Data Science for Social Good fellow and a Future Stars of Tech 2020 finalist in the Data Science category.
 
 My analytical toolkit includes a mix of GIS and data science tools, and I have strong communication, project management and team coordination skills. I also have experience with public speaking and mentoring, and I am a lecturer at the Sciences Po Urban School.
 

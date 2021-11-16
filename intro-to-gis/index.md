@@ -1,9 +1,4 @@
----
-layout: page
-title: Introduction to GIS
----
-
-
+# Introduction to GIS
 **Sciences Po Urban School, GETEC Masters, Fall semester 2021-2022**
 
 **Lecturer: Raphaëlle Roffo**

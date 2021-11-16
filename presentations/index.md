@@ -1,13 +1,9 @@
----
-layout: page
-title: Public speaking and publications
----
+# Public speaking and publications
 
 
 I really enjoy teaching and sharing learnings with specialist and non-specialist audiences alike; it certainly is a different exercise and challenge !
 
 &nbsp; 
-
 ## Public speaking
 
 ### Dealing with Geospatial data, DataKind UK
@@ -29,7 +25,7 @@ I'm a DataKind UK volunteer, and I gave this presentation to other volunteers an
 ### GIS R UK, London 2020
 
 
-The [GIS R UK conference](http://london.gisruk.org/) is a conference that discusses the use of the statistical software R in carrying out geospatial analysis. I submitted a [paper that was basically a shorter version of my MSc dissertation](http://london.gisruk.org/gisruk2020_proceedings/GISRUK2020_paper_20.pdf), called *"Mapping risks of faecal contamination of shallow groundwater in Dakar, Senegal: an evaluation of culture- based methods and a real-time technique using tryptophan-like fluorescence"* . I was also invited to give a [presentation](https://raw.githubusercontent.com/raphaelleroffo/raphaelleroffo.github.io/main/docs/assets/pdf/GISRUK_Presentation.pdf), but unfortunately the recording isn't available.
+The [GIS R UK conference](http://london.gisruk.org/) is a conference that discusses the use of the statistical software R in carrying out geospatial analysis. I submitted a [paper that was basically a shorter version of my MSc dissertation](http://london.gisruk.org/gisruk2020_proceedings/GISRUK2020_paper_20.pdf), called *"Mapping risks of faecal contamination of shallow groundwater in Dakar, Senegal: an evaluation of culture- based methods and a real-time technique using tryptophan-like fluorescence"* . I was also invited to give a [presentation](https://raw.githubusercontent.com/raphaelleroffo/raphaelleroffo.github.io/main/docs/assets/pdf/GISRUK_Presentation.pdf) as well (unfortunately the recording isn't available).
 
 &nbsp; 
 

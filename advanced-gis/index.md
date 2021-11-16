@@ -1,7 +1,3 @@
----
-layout: page
-title: Advanced GIS
----
-
+# Advanced GIS
 
 This course will be available online shortly.
