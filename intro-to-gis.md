@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction to GIS
+title: Tutorials - Intro to GIS
 ---
 
 

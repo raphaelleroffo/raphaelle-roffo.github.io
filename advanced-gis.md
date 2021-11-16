@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Advanced GIS
+title: Tutorials - Advanced GIS
 ---
 
 

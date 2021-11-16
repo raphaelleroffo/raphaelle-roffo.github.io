@@ -1,4 +1,7 @@
-# Session 2: Sourcing and loading data into GIS
+---
+layout: post
+title:  Session 2 - Sourcing and loading data into GIS
+---
 
 **Introduction to GIS  ·  Sciences Po Urban School, GETEC Masters  ·  Fall semester 2021-2022**
 
