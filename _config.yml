@@ -7,6 +7,9 @@ baseurl:             ''
 paginate:            5
 permalink:           pretty
 
+collections:
+  course:
+
 # About/contact
 author:
   name:              Raphaëlle Roffo
