@@ -54,7 +54,7 @@ To load the basemap, we're going to use Python.
 **Load basemaps**
 
 One way to add basemaps in QGIS is to connect to a tile service from some online server. You can do that very quickly using the Python console!
-Go to https://raw.githubusercontent.com/klakar/QGIS_resources/master/collections/Geosupportsystem/python/qgis_basemaps.py ; select and copy the entire text on that page (press Ctrl+A or ⌘+A, then Ctrl+C or ⌘+C).
+Visit this [link](https://raw.githubusercontent.com/klakar/QGIS_resources/master/collections/Geosupportsystem/python/qgis_basemaps.py). Select & copy the entire text on that page (press Ctrl+A or ⌘+A, then Ctrl+C or ⌘+C).
 
 Now go back to QGIS, and open the Python Console by clicking the Python icon in your toolbar, or going to your `Plugins` Menu > `Python Console`. This opens a new panel, usually located below your map canvas. Simply paste the script that you just copied (Ctrl + V or ⌘+V) and press enter. That's it!
 Now if you look into your `Browser` panel and scroll down, you will see a `XYZ tiles` section. Click to open and you'll see a list of basemaps ready to use! You can close the Python console. Note that you only need to create this connection once, and the basemaps will now always be available in your QGIS console even when you work on a different project.

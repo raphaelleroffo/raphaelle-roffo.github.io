@@ -28,8 +28,9 @@ Working in groups of 2 or 3, students will be provided a dataset to explore and 
 ## Sessions
 
 
-### [Session 1: What is GIS?](https://raphaelleroffo.github.io/intro-to-gis/intro-tutorial1.html)
-
+### [Session 1: What is GIS?](https://raphaelleroffo.github.io/raphaelle-roffo.github.io/2021/11/16/intro-tutorial1/)
+https://raphaelleroffo.github.io/raphaelle-roffo.github.io/2021/11/16/intro-tutorial1/
+[test](_posts/2021-11-16-intro-tutorial1.md)
 
 *[Class Content:](https://github.com/raphaelleroffo/intro-to-gis/raw/main/Session1/Intro%20to%20GIS%20-%20session%201.pdf)*
 
