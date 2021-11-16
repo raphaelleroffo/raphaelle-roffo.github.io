@@ -2,7 +2,7 @@
 title:               Raphaëlle Roffo
 tagline:             'Geospatial data science portfolio & training material'
 description:         'A space for sharing my projects, research interests and GIS training material. By <a href="https://twitter.com/feili_rf" target="_blank">@feili_rf</a>.'
-url:                 https://lanyon.getpoole.com
+url:                 https://raphaelle-roffo.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
