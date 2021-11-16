@@ -3,35 +3,19 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+<h1>Welcome to my portfolio!</h1>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+&nbsp; 
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<p>My name is Raphaëlle Roffo, I am a geospatial data scientist with a background in sustainable development. I am
+  passionate about using data analysis towards making a positive impact on society and the environment.</p>
+
+<p>In this portfolio, you will find some open source projects I have worked on. They range from traditional GIS to
+  interfacing using Python Dash or Natural Language Processing.</p>
+
+<p>You will also find my <a href="https://raphaelleroffo.github.io/raphaelle-roffo.github.io/teaching">teaching 
+  resources</a>, created from scratch to teach GIS and the QGIS software to masters students.</p>
+
+<p>Feel free to reach out on <a href="https://www.linkedin.com/in/raphaelle-roffo/">LinkedIn</a> or to visit my <a
+    href="https://github.com/raphaelleroffo/">GitHub</a>!</p>

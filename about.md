@@ -3,27 +3,16 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+With an academic background in both urban policy (Sciences Po Paris) and geospatial analysis (UCL), I am passionate about using data analysis towards making a positive impact on society and the environment. I was a 2019 Data Science for Social Good fellow and a Future Stars of Tech 2020 finalist in the Data Science category.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+My analytical toolkit includes a mix of GIS and data science tools, and I have strong communication, project management and team coordination skills. I also have experience with public speaking and mentoring, and I am a lecturer at the Sciences Po Urban School.
 
-There are currently two themes built on Poole:
+I have over 7 years experience working on sustainability challenges for a range of public and private organisations in Europe and Asia. Most recently, I joined the French government's "Entrepreneurs d'Intérêt Général" fellowship as Data Scientist Lead, and was previously a geospatial data scientist for the engineering firm Arup in London. I have also worked as a Sustainable Development Consultant to two major French utility companies, a water and development think tank, and the United Nations Development Programme (UNDP) in Bangkok.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+<object data="../docs/assets/pdf/Raphaelle Roffo - CV.pdf" width="800" height="800" type='application/pdf'></object>
 
-## Setup
+&nbsp;
 
-Some fun facts about the setup of this project include:
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/raphaelle-roffo/)!
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
