@@ -159,7 +159,7 @@ The status bar contains general information about the map view: the zoom level, 
 
 &nbsp; 
 ## V. Documentation
-The QGIS documentation is available at this address: https://qgis.org/en/docs/index.html
+The QGIS documentation is available at this address: [https://qgis.org/en/docs/index.html](https://qgis.org/en/docs/index.html)
 
 &nbsp; 
 

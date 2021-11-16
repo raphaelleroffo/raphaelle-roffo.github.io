@@ -281,7 +281,7 @@ If you have had difficulties, the final result, packaged in the `Session2-Barcel
 &nbsp; 
 
 ## VIII. Reminder: QGIS Documentation
-The QGIS documentation is available at this address: https://qgis.org/en/docs/index.html
+The QGIS documentation is available at this address: [https://qgis.org/en/docs/index.html](https://qgis.org/en/docs/index.html)
 
 **Please note:**
 
